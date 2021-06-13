@@ -1,0 +1,7 @@
+{
+  "defaultCommandTimeout": 5000,
+  "env": {
+    "amazonURL": "https://www.amazon.in/"
+  },
+  "projectId": "4ew73o"
+}
